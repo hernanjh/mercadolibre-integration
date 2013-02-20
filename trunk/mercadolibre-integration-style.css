@@ -1,0 +1,67 @@
+#mlintegration {
+	padding:0;
+	overflow:hidden;
+	list-style:none;
+} 
+#mlintegration td.MLInt-content{
+	min-height:270px;
+	margin-bottom:5%;
+	padding:10px 1% 10px 1%;
+	float:left;
+	position:relative;
+	border-bottom: #CCCCCC 1px solid;
+	font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+#mlintegration td.MLInt-content .MLInt-img{
+	text-align: center;
+	height:150px;
+}
+#mlintegration td.MLInt-content img{
+	max-width:90%;
+	max-height:100%;
+}
+#mlintegration td.MLInt-content .MLInt-title a{
+	color:#757575;
+	text-decoration: none;
+	font-size: 13px;
+	margin: 0;
+	padding:0 0 1em 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+	line-height: 15px;
+	text-align: left;
+	font-weight: bold;
+	list-style: none;
+}
+#mlintegration td.MLInt-content p{
+	margin:0;
+	padding:0 0 1em 0;
+	line-height:1em;
+	font-size:0.85em;
+}
+#mlintegration td.MLInt-content .MLInt-price{	
+	color: #900;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+}
+#mlintegration td.MLInt-content .MLInt-price sup {
+	font-size: 10px;
+	vertical-align: text-top;
+	line-height: 1em;
+}
+#mlintegration td.MLInt-content .MLInt-offer{
+	padding: 5px 0 0;
+	position: absolute;
+	top: 5px;
+	margin: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+}
