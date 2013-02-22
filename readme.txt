@@ -24,7 +24,7 @@ List your product catalog of MercadoLibre on your site WordPress.
 * How to use it?
 
 In then  new catalog, insert name of catalog, user of MercadoLibre to display, columns, articles featured and image for articles featured.
-After insert de shortcode in post [mercadolibre_integration name=xxx], whera name is the name of catalog created.
+After insert de shortcode in post [mercadolibre_integration name=xxx], where name is the name of catalog created.
 
 == Screenshots ==
 
